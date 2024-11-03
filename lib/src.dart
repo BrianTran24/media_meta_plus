@@ -1,0 +1,1 @@
+export 'src/model/meta_data.dart';
